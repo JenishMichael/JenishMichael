@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello World 👋, I'm Jenish</h1>
 
-<h3 align="center">Evolving Java Full Stack Developer</h3>
+<h3 align="center">Evolving Full Stack Developer</h3>
 <h3 align="center">Passionate About Code and Growth</h3>
 
 <p align="center">
